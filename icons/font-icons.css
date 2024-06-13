@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "font-icons";
+    src: url("./font-icons.eot?ca5e9e4f759ef050e72fe42f30aa0860?#iefix") format("embedded-opentype"),
+url("./font-icons.woff2?ca5e9e4f759ef050e72fe42f30aa0860") format("woff2"),
+url("./font-icons.woff?ca5e9e4f759ef050e72fe42f30aa0860") format("woff"),
+url("./font-icons.ttf?ca5e9e4f759ef050e72fe42f30aa0860") format("truetype"),
+url("./font-icons.svg?ca5e9e4f759ef050e72fe42f30aa0860#font-icons") format("svg");
+}
+
+i[class^="icon-"]:before, i[class*=" icon-"]:before {
+    font-family: font-icons !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-1_Brix_Icon:before {
+    content: "\f101";
+}
+.icon-2_Navigation_Icon:before {
+    content: "\f102";
+}
