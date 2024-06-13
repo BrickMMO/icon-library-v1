@@ -1,13 +1,13 @@
 @font-face {
     font-family: "font-icons";
-    src: url("./font-icons.eot?ca5e9e4f759ef050e72fe42f30aa0860?#iefix") format("embedded-opentype"),
-url("./font-icons.woff2?ca5e9e4f759ef050e72fe42f30aa0860") format("woff2"),
-url("./font-icons.woff?ca5e9e4f759ef050e72fe42f30aa0860") format("woff"),
-url("./font-icons.ttf?ca5e9e4f759ef050e72fe42f30aa0860") format("truetype"),
-url("./font-icons.svg?ca5e9e4f759ef050e72fe42f30aa0860#font-icons") format("svg");
+    src: url("./font-icons.eot?b60308132e1464aebeee3e0fe8cee70b?#iefix") format("embedded-opentype"),
+url("./font-icons.woff2?b60308132e1464aebeee3e0fe8cee70b") format("woff2"),
+url("./font-icons.woff?b60308132e1464aebeee3e0fe8cee70b") format("woff"),
+url("./font-icons.ttf?b60308132e1464aebeee3e0fe8cee70b") format("truetype"),
+url("./font-icons.svg?b60308132e1464aebeee3e0fe8cee70b#font-icons") format("svg");
 }
 
-i[class^="icon-"]:before, i[class*=" icon-"]:before {
+i[class^="bm-"]:before, i[class*=" bm-"]:before {
     font-family: font-icons !important;
     font-style: normal;
     font-weight: normal !important;
@@ -18,9 +18,9 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
     -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-1_Brix_Icon:before {
+.bm-brix:before {
     content: "\f101";
 }
-.icon-2_Navigation_Icon:before {
+.bm-navigation:before {
     content: "\f102";
 }
