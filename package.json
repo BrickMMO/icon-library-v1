@@ -1,7 +1,7 @@
 {
-  "name": "font-icons",
+  "name": "glyphs",
   "version": "1.0.0",
-  "description": "Font library for BrickMMO icons.",
+  "description": "Font icon library for BrickMMO icons.",
   "scripts": {},
   "author": "Adam Thomas",
   "license": "MIT"
