@@ -4,14 +4,13 @@ This repo store the raw SVG files and the process to convert them to the [Glyphs
 
 Instructions for converting the SVG files to the distributed font library are on [Coding for Entrepreneurs](https://www.codingforentrepreneurs.com/blog/svg-icons-to-css-webfonts-to-cdn).
 
-After any changes have been made to the font library. ensure to update the [BrickMMO CDN](https://cdn.brickmmo.com).
-
 Once you have made changes to the SVG files in the `svg` folder, run the following command:
 
 ```
 icon-font-generator svg/*.svg -o glyphs -n endless -p endless --normalize  --round 0 --mono --height 250
 ```
 
+After any changes have been made to the font library. ensure to update the [BrickMMO CDN](https://cdn.brickmmo.com).
 
 ---
 
