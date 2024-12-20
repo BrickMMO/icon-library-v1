@@ -7,7 +7,7 @@ Instructions for converting the SVG files to the distributed font library are on
 Once you have made changes to the SVG files in the `svg` folder, run the following command:
 
 ```
-icon-font-generator svg/*.svg -o glyphs -n endless -p endless --normalize  --round 0 --mono --height 250
+icon-font-generator svg/*.svg -o glyphs -n glyphs -p glyphs --normalize  --round 0 --mono --height 250
 ```
 
 After any changes have been made to the font library. ensure to update the [BrickMMO CDN](https://cdn.brickmmo.com).
