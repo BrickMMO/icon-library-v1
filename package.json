@@ -4,5 +4,8 @@
   "description": "Font icon library for BrickMMO icons.",
   "scripts": {},
   "author": "Adam Thomas",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "icon-font-generator": "^2.1.11"
+  }
 }
