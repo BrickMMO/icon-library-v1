@@ -10,28 +10,18 @@ After any changes have been made to the font library. ensure to update the [Bric
 
 ## Project Stack
 
-This project uses a [jQuery](https://jquery.com/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and is hosted using [GitHub Pages](https://pages.github.com/).
+This project uses a [Node.js](https://nodejs.org/en) library and regular [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS). The CDN is hosted using [GitHub Pages](https://pages.github.com/).
 
-<img src="https://console.codeadam.ca/api/image/node" width="60"> <img src="https://console.codeadam.ca/api/image/npm" width="60"> 
+<img src="https://console.codeadam.ca/api/image/nodejs" width="60"> <img src="https://console.codeadam.ca/api/image/npm" width="60"> <img src="https://console.codeadam.ca/api/image/css" width="60"> 
 
 ---
 
 ## Repo Resources
 
 * [BrickMMO](https://www.brickmmo.com/)
-* [BrickMMO Colours](https://colours.brickmmo.com/)
+* [BrickMMO Glyphs](https://glyphs.brickmmo.com/)
+* [BrickMMO CDN](https://cdn.brickmmo.com/)
 
 <a href="https://brickmmo.com">
 <img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" width="200">
 </a>
-
-# font-icons
-A repo to store Font Icons
-
-
-
-
-
-```
-icon-font-generator svg/*.svg -o dist -n endless -p endless --normalize  --round 0 --mono --height 250
-```
