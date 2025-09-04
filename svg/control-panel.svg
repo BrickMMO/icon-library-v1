@@ -1,27 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 165.4 169.4">
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 511.68 511.68">
   <defs>
     <style>
       .cls-1 {
-        fill: none;
-        stroke: #231f20;
-        stroke-linecap: round;
-        stroke-linejoin: round;
-        stroke-width: 15px;
+        fill: #fff;
       }
 
       .cls-2 {
-        fill: #231f20;
-        stroke-width: 0px;
+        fill: url(#New_Gradient_Swatch_1);
       }
     </style>
+    <linearGradient id="New_Gradient_Swatch_1" data-name="New Gradient Swatch 1" x1="49.32" y1="256.06" x2="455.08" y2="256.06" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f15d22"/>
+      <stop offset="1" stop-color="#ed2024"/>
+    </linearGradient>
   </defs>
-  <line class="cls-1" x1="157.9" y1="18.51" x2="7.5" y2="18.51"/>
-  <line class="cls-1" x1="157.9" y1="65.48" x2="7.5" y2="65.48"/>
-  <line class="cls-1" x1="157.9" y1="112.45" x2="7.5" y2="112.45"/>
-  <line class="cls-1" x1="157.9" y1="151.27" x2="7.5" y2="151.27"/>
-  <circle class="cls-2" cx="36.18" cy="18.13" r="18.13"/>
-  <circle class="cls-2" cx="90.52" cy="65.48" r="18.13"/>
-  <circle class="cls-2" cx="135.14" cy="112.45" r="18.13"/>
-  <circle class="cls-2" cx="57.49" cy="151.27" r="18.13" transform="translate(-101.04 183.79) rotate(-80.78)"/>
+  <path class="cls-2" d="M252.2,53.18c-112.05,0-202.88,90.83-202.88,202.88s90.83,202.88,202.88,202.88,202.88-90.83,202.88-202.88S364.25,53.18,252.2,53.18Z"/>
+  <g>
+    <path class="cls-1" d="M331.1,195.42h-150.41c-4.14,0-7.5-3.36-7.5-7.5s3.36-7.5,7.5-7.5h150.41c4.14,0,7.5,3.36,7.5,7.5s-3.36,7.5-7.5,7.5Z"/>
+    <path class="cls-1" d="M331.1,242.39h-150.41c-4.14,0-7.5-3.36-7.5-7.5s3.36-7.5,7.5-7.5h150.41c4.14,0,7.5,3.36,7.5,7.5s-3.36,7.5-7.5,7.5Z"/>
+    <path class="cls-1" d="M331.1,289.36h-150.41c-4.14,0-7.5-3.36-7.5-7.5s3.36-7.5,7.5-7.5h150.41c4.14,0,7.5,3.36,7.5,7.5s-3.36,7.5-7.5,7.5Z"/>
+    <path class="cls-1" d="M331.1,328.17h-150.41c-4.14,0-7.5-3.36-7.5-7.5s3.36-7.5,7.5-7.5h150.41c4.14,0,7.5,3.36,7.5,7.5s-3.36,7.5-7.5,7.5Z"/>
+    <circle class="cls-1" cx="209.38" cy="187.53" r="18.13"/>
+    <circle class="cls-1" cx="263.72" cy="234.89" r="18.13"/>
+    <circle class="cls-1" cx="308.34" cy="281.86" r="18.13"/>
+    <circle class="cls-1" cx="230.68" cy="320.67" r="18.13"/>
+  </g>
 </svg>
