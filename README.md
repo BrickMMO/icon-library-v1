@@ -1,11 +1,11 @@
 # BrickMMO Icon Library
 
-This repo stores the raw SVG files and the process to convert them to the [Glyphs Font Library](https://glyphs.brickmmo.com/). 
+This repo stores the raw SVG files and the process to convert them to the [Fantasticon](https://github.com/tancredi/fantasticon). 
 
 Instructions for converting the SVG files to the distributed font library are on [Coding for Entrepreneurs](https://www.codingforentrepreneurs.com/blog/svg-icons-to-css-webfonts-to-cdn). Once you have made changes to the SVG files in the `svg` folder, run the following command:
 
 ```
-icon-font-generator svg/*.svg -o glyphs -n glyphs -p glyphs --normalize  --round 0 --mono --height 250
+fantasticon svg -o glyphs
 ```
 
 After any changes have been made to the font library. ensure to update the [BrickMMO CDN](https://cdn.brickmmo.com).

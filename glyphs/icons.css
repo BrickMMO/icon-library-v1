@@ -1,0 +1,108 @@
+@font-face {
+    font-family: "icons";
+    src: url("./icons.eot?e40f23ddd5f47ba66769a0772aa3721c#iefix") format("embedded-opentype"),
+url("./icons.woff2?e40f23ddd5f47ba66769a0772aa3721c") format("woff2"),
+url("./icons.woff?e40f23ddd5f47ba66769a0772aa3721c") format("woff");
+}
+
+i[class^="icon-"]:before, i[class*=" icon-"]:before {
+    font-family: icons !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-video-kit:before {
+    content: "\f101";
+}
+.icon-uptime:before {
+    content: "\f102";
+}
+.icon-train:before {
+    content: "\f103";
+}
+.icon-tracks:before {
+    content: "\f104";
+}
+.icon-timesheets:before {
+    content: "\f105";
+}
+.icon-timeline:before {
+    content: "\f106";
+}
+.icon-stores:before {
+    content: "\f107";
+}
+.icon-stats:before {
+    content: "\f108";
+}
+.icon-road-view:before {
+    content: "\f109";
+}
+.icon-radio:before {
+    content: "\f10a";
+}
+.icon-qr:before {
+    content: "\f10b";
+}
+.icon-power-grid:before {
+    content: "\f10c";
+}
+.icon-place-kit:before {
+    content: "\f10d";
+}
+.icon-pixelate:before {
+    content: "\f10e";
+}
+.icon-pick-a-brick:before {
+    content: "\f10f";
+}
+.icon-parts:before {
+    content: "\f110";
+}
+.icon-navigation:before {
+    content: "\f111";
+}
+.icon-media:before {
+    content: "\f112";
+}
+.icon-gps:before {
+    content: "\f113";
+}
+.icon-glyphs:before {
+    content: "\f114";
+}
+.icon-flow:before {
+    content: "\f115";
+}
+.icon-events:before {
+    content: "\f116";
+}
+.icon-conversions:before {
+    content: "\f117";
+}
+.icon-control-panel:before {
+    content: "\f118";
+}
+.icon-colours:before {
+    content: "\f119";
+}
+.icon-clock:before {
+    content: "\f11a";
+}
+.icon-cdn:before {
+    content: "\f11b";
+}
+.icon-brix:before {
+    content: "\f11c";
+}
+.icon-bricksum:before {
+    content: "\f11d";
+}
+.icon-brick-overflow:before {
+    content: "\f11e";
+}
